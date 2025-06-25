@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|c:\\users\\klaudy\\desktop\\hotelbooking\\hotelbooking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|C:\\Users\\Klaudy\\Desktop\\HotelBooking\\hotelbooking\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|C:\\Users\\Klaudy\\Desktop\\HotelBooking\\hotelbooking\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09899F09-B125-4EF1-A562-49F75ED3F35A}|HotelBooking\\HotelBooking.csproj|solutionrelative:hotelbooking\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\Booking.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\Booking.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\Booking.cs",
+              "RelativeToolTip": "HotelBooking\\Booking.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:11:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HotelBooking\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\MainWindow.xaml",
+              "RelativeToolTip": "HotelBooking\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T14:10:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelBooking\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Klaudy\\Desktop\\HotelBooking\\HotelBooking\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HotelBooking\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:10:34.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
